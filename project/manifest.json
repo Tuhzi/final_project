@@ -1,0 +1,10 @@
+{
+    "name": "F&E Dictionary",
+    "description": "A fast english dictionary you can use directly from the page you are.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_icon": "icon.png",
+        "default_popup":"index.html"
+    }
+}
