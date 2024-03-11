@@ -1,1 +1,1 @@
-# final_project
+# Final Project - CS50X: Harvard University
